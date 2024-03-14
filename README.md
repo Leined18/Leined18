@@ -1,14 +1,11 @@
 [<img src="resources/imagen.jpg" width="100%" />]
 
-<h1 align="center"> Hi, I’m danpalac </h1>
+**<h1 align="center"> Hi, I’m danpalac </h1>**
+
+
+Software developer student at [42 Madrid](https://www.42madrid.com/en)
 
 - Interested in Artificial Inteligence, Music, Videogames and Grafics 💻
-
----
-
-## Software developer student at [42 Madrid](https://www.42madrid.com/en)
-
-[![Danpalac's 42 stats](https://badge.mediaplus.ma/binary/danpalac?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ### My 42 cursus:
 | Project | Score |
