@@ -11,7 +11,7 @@ Software developer student at [42 Madrid](https://www.42madrid.com/en)
 | Project | Score |
 |--------|--------|
 | [**Libft**](https://github.com/Leined18/Libft) | ![125%](https://progress-bar.dev/125)
-| [**ft_printf**](https://github.com/Leined18/ft_printf) | ![125%](https://progress-bar.dev/110)
+| [**ft_printf**](https://github.com/Leined18/ft_printf) | ![125%](https://progress-bar.dev/100)
 
 ---
 
