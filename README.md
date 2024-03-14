@@ -26,6 +26,7 @@ Software developer student at [42 Madrid](https://www.42madrid.com/en)
 ## 📫Contact me:
 
 Email: danpalac@student.42madrid.com
+Linkedin: www.linkedin.com/in/daniel-palacios-a5a2a4249
 
 
 
