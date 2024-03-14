@@ -1,4 +1,4 @@
-[<img src="resources/imagen.jpg" width="100%" />]
+[<img src="foxy.jpg" width="100%" />]
 
 **<h1 align="center"> Hi, I’m danpalac </h1>**
 
