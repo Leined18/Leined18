@@ -1,4 +1,4 @@
-<img src="recourses/fox.jpeg" width="100%" />
+<img src="recourses/welcome" width="100%" />
 
 <h1 align="center">🦊 Hi, I’m Danpalac 🦊</h1>
 
@@ -64,3 +64,5 @@ Linkedin: https://www.linkedin.com/in/daniel-palacios-a5a2a4249/
 </div>
 
 ---
+
+<img src="recourses/fox.jpeg" width="100%" />
