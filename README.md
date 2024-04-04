@@ -1,5 +1,5 @@
 <div align="center">
-<img src="recourses/welcome.png" width="90%" height="400px" />
+<img src="recourses/welcome.png" width="90%" height="500px" />
 </div>
 <h1 align="center">🦊 Hi, I’m Danpalac 🦊</h1>
 
