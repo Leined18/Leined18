@@ -48,8 +48,9 @@
 ## ▪️ Github stats 📊
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Leined18&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=6&hide=php" height="250" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Leined18&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=6&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Leined18&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leined18&theme=tokyonight&hide_border=false)" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Leined18&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="220" alt="streak graph"  />
 </div>
 
 ##
