@@ -1,4 +1,4 @@
-<img src="recourses/welcome" width="100%" />
+<img src="recourses/welcome.png" width="100%" height="320px" />
 
 <h1 align="center">🦊 Hi, I’m Danpalac 🦊</h1>
 
