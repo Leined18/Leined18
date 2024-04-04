@@ -38,7 +38,7 @@ Linkedin: www.linkedin.com/in/daniel-palacios-a5a2a4249
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&user=leined17" alt="Spotify recently played"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&user=Leined17" alt="Spotify recently played"  />
 </div>
 
 ###
