@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome!&fontSize=70" width=100%/>
+
 <img src="recourses/fox.jpeg" width="100%" />
 
 *<h1 align="center"> Hi, I’m Danpalac </h1>*
