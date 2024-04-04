@@ -46,16 +46,19 @@
 
 ## 📫 Contact me:
 
-<div align="center">
+<div align="left">
 
 Email: danpalac@student.42madrid.com
 
-HackerRank: [https://www.hackerrank.com/profile/erdanielmarciano](https://www.hackerrank.com/profile/erdanielmarciano) 
+HackerRank: [https://www.hackerrank.com/profile/erdanielmarciano](https://www.hackerrank.com/profile/erdanielmarciano)
+
+CodeWars: [<img src="https://www.codewars.com/users/leined18/badges/small" />](https://www.codewars.com/users/leined18)
+
+Linkedin: https://www.linkedin.com/in/daniel-palacios-a5a2a4249/
 
 </div>
 
 ---
-
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=k95jc7brx61cgfgqo9bojn6c4" />
 </div>
