@@ -4,7 +4,8 @@
 
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/daniel-palacios-a5a2a4249/)
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:erdanielmarciano@gmail.com)
-[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/Leined17)
+[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/Leined17)</br>
+
 [![Visits Badge](https://badges.pufler.dev/visits/Leined18/Leined18)](https:braydoncoyer.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/Leined18)](https:braydoncoyer.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/Leined18)](https:braydoncoyer.dev)
