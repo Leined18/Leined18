@@ -52,14 +52,11 @@
   <img src="https://streak-stats.demolab.com?user=Leined18&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=6&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
----
+##
 
 </div>
-
 <div align="center">
-
+  
 ## 📫Contact me:
 
 Email: danpalac@student.42madrid.com
@@ -70,7 +67,6 @@ HakerRank: https://www.hackerrank.com/profile/erdanielmarciano
 
 ###
 
----
 
 <div align="center">
   <img src=https://spotify-recently-played-readme.vercel.app/api?user=k95jc7brx61cgfgqo9bojn6c4 />
