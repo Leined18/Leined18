@@ -1,6 +1,4 @@
-<div align="center">
-<img src="recourses/welcome.png" width="85%" height="650px" />
-</div>
+
 <h1 align="center">🦊 Hi, I’m Danpalac 🦊</h1>
 
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/daniel-palacios-a5a2a4249/)
