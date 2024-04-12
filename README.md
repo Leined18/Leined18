@@ -25,7 +25,7 @@
 | --------------- | ----- |
 | [Libft](https://github.com/Leined18/Libft)         | ![125%](https://progress-bar.dev/125) |
 | [ft_printf](https://github.com/Leined18/ft_printf) | ![100%](https://progress-bar.dev/100) |
-| [get_next_line](https://github.com/Leined18/get_next_line) | ![0%](https://progress-bar.dev/0) |
+| [get_next_line](https://github.com/Leined18/get_next_line) | ![41%](https://progress-bar.dev/41) |
 
 </div>
 
