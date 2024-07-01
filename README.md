@@ -13,8 +13,7 @@
 
 ### Software developer student at [42 Madrid](https://www.42madrid.com/en):
 
-- Interested in Artificial Intelligence, Music, Videogames, and Graphics 💻
-- focus on graphics and low-level development.
+- Learning Python | C 
 ---
 
 ##  My 42 cursus:
