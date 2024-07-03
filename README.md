@@ -20,12 +20,12 @@
 
 <div align="center">
 
-| Project         | Score | STATE |
-| --------------- | ----- | ----- |
-| [Libft](https://github.com/Leined18/Libft)         | ![125%](https://progress-bar.dev/125) | Done |
-| [ft_printf](https://github.com/Leined18/ft_printf) | ![100%](https://progress-bar.dev/100) | Done |
-| [get_next_line](https://github.com/Leined18/get_next_line) | ![112%](https://progress-bar.dev/112) | Done |
-| [So_long](https://github.com/Leined18/so_long) | ![0%](https://progress-bar.dev/0) | Creating |
+| Project         |
+| --------------- |
+| [Libft](https://github.com/Leined18/Libft)         |
+| [ft_printf](https://github.com/Leined18/ft_printf) |
+| [get_next_line](https://github.com/Leined18/get_next_line) |
+| [So_long](https://github.com/Leined18/so_long) |
 
 
 </div>
