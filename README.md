@@ -16,14 +16,19 @@
 
 <div align="center">
 
-| Project | Language | Description |
-|---------|----------|-------------|
-| [Libft](https://github.com/Leined18/Libft)         |      C      | --- |
-| [ft_printf](https://github.com/Leined18/ft_printf)       |       C     | --- |
-| [get_next_line](https://github.com/Leined18/get_next_line)         |       C     | --- |
-| [So_long](https://github.com/Leined18/so_long)      |     C      | ----|
-| [Push_Swap](https://github.com/Leined18/Push_swap)        |      C      | ----|
+| Project        | Language | Description |
+|----------------|----------|-------------|
+| [Libft]        |    C     | ----------- |
+| [Ft_printf]    |    C     | ----------- |
+| [Getnextline]  |    C     | ----------- |
+| [So_long]      |    C     | ----------- |
+| [Push_Swap]    |    C     | ----------- |
 
+[Libft]: https://github.com/Leined18/Libft
+[ft_printf]: https://github.com/Leined18/ft_printf
+[Getnextline]: https://github.com/Leined18/get_next_line
+[So_long]: https://github.com/Leined18/so_long
+[Push_Swap]: https://github.com/Leined18/Push_swap
 
 </div>
 
