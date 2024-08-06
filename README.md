@@ -16,13 +16,13 @@
 
 <div align="center">
 
-| Project        | Language | Description |
-|----------------|----------|-------------|
-| [Libft]        |    C     | ----------- |
-| [Ft_printf]    |    C     | ----------- |
-| [Getnextline]  |    C     | ----------- |
-| [So_long]      |    C     | ----------- |
-| [Push_Swap]    |    C     | ----------- |
+| Project        | Language | Description                       |
+|----------------|----------|---------------------------------- |
+| [Libft]        |    C     | Recode of C Standard library      |
+| [Ft_Printf]    |    C     | Recode of printf function         |
+| [Getnextline]  |    C     | Recode of getline system function |
+| [So_long]      |    C     | 2D game using MinilibX            |
+| [Push_Swap]    |    C     | Sorting algorithm with limited operations |
 
 [Libft]: https://github.com/Leined18/Libft
 [ft_printf]: https://github.com/Leined18/ft_printf
