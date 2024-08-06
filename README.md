@@ -52,11 +52,11 @@
 
 Email: danpalac@student.42madrid.com
 
-HackerRank: [https://www.hackerrank.com/profile/erdanielmarciano](https://www.hackerrank.com/profile/erdanielmarciano)
+[``HackerRank``](https://www.hackerrank.com/profile/erdanielmarciano)
 
-CodeWars: [<img src="https://www.codewars.com/users/leined18/badges/small" />](https://www.codewars.com/users/leined18)
+[``CodeWars``](https://www.codewars.com/users/leined18)
 
-Linkedin: https://www.linkedin.com/in/daniel-palacios-a5a2a4249/
+[``Linkedin``](https://www.linkedin.com/in/daniel-palacios-a5a2a4249/)
 
 </div>
 
