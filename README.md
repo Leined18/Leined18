@@ -36,7 +36,29 @@
 
 </tr> </table>
 
-<div align="center">
+## :cat: Proyects
+
+
+</td>
+
+</tr> </table>
+
+
+<table>
+<tr>
+<th align="left"> &nbsp; Other Projects</th>
+</tr>
+<tr>
+
+<td>
+
+| [1-game]        | [2-game]    |
+|--|--|
+
+</td>
+
+
+</tr> </table>
 
 [Libft]: https://github.com/Leined18/Libft
 [ft_printf]: https://github.com/Leined18/ft_printf
@@ -44,7 +66,9 @@
 [So_long]: https://github.com/Leined18/so_long
 [Push_Swap]: https://github.com/Leined18/Push_swap
 
-</div>
+[1-game]: https://github.com/Leined18/1-game
+[2-game]: https://github.com/Leined18/2-game
+
 
 ---
 
