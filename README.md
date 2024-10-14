@@ -9,7 +9,7 @@
 
 ### Software developer student at [42 Madrid](https://www.42madrid.com/en):
 
-- Learning Python | C 
+- Learning Python | C | Unix
 ---
 
 ## :fox_face: 42 Common Core Student
