@@ -28,7 +28,7 @@
 
 <td>
 
-| [Libft]        | [Ft_Printf]    | [Getnextline]  | [So_long]  | [Push_Swap]    | [Minitalk] |
+| [Libft]        | [ft_printf]    | [Getnextline]  | [So_long]  | [Push_Swap]    | [Minitalk] |
 |--|--|--|--|--|--|
 
 </td>
