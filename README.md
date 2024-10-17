@@ -22,7 +22,7 @@
 
 <table>
 <tr>
-<th align="left"> &nbsp; Common Core Projects - From Libft To Push_Swap.</th>
+<th align="left"> &nbsp; Common Core Projects - From Libft To Minitalk.</th>
 </tr>
 <tr>
 
