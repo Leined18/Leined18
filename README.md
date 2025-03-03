@@ -28,8 +28,8 @@
 
 <td>
 
-| [Libft]        | [ft_printf]    | [Getnextline]  | [So_long]  | [Push_Swap]    | [Minitalk] |
-|--|--|--|--|--|--|
+| [Libft]        | [ft_printf]    | [Getnextline]  | [So_long]  | [Push_Swap]    | [Minitalk] | [Philosophers] |
+|--|--|--|--|--|--|--|
 
 </td>
 
@@ -66,6 +66,7 @@
 [So_long]: https://github.com/Leined18/so_long
 [Push_Swap]: https://github.com/Leined18/Push_swap
 [Minitalk]: https://github.com/Leined18/Minitalk
+[Philosophers]: https://github.com/Leined18/Philosophers
 
 [1-game]: https://github.com/Leined18/1-game
 [2-game]: https://github.com/Leined18/2-game
