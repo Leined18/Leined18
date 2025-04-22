@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Danpalac | Portfolio</title>
+  Danpalac
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
