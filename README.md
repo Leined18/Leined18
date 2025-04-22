@@ -23,7 +23,7 @@
    <tr>
      <td align="center">Rank 1</td>
      <td align="center">🖨️ <a href="https://github.com/Leined18/ft_printf">ft_printf</a></td>
-     <td align="center">📜 <a href="https://github.com/Leined18/get_next_line">get_next_line</a></td>
+     <td colspan="2" align="center">📜 <a href="https://github.com/Leined18/get_next_line">get_next_line</a></td>
    </tr>
    <tr>
      <td align="center">Rank 2</td>
