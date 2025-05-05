@@ -70,9 +70,9 @@
 | Category                 | Technologies                                                                                              |
 |--------------------------|-----------------------------------------------------------------------------------------------------------|
 | **Proficient Languages** | <p align="center"> ![C][] ![Bash][] ![Makefile][] </p>                                                    |
-| **Currently Learning**   | <p align="center"> ![HTML5][] ![Java][] ![Python][] </p> |
+| **Currently Learning**   | <p align="center"> ![HTML5][] ![C++][] ![Python][] </p> |
 | **Tools and Software**   | <p align="center"> ![Git][] ![GitHub][] ![Visual Studio Code][] ![Linux][] ![Slack][]             </p>    |
-| **Future Goals**         | <p align="center"> ![SQL][] ![Docker][] ![JavaScript][] ![TypeScript][] ![React][] ![Tailwind CSS] </p>   |
+| **Future Goals**         | <p align="center"> ![SQL][] ![Docker][] ![Java][] ![JavaScript][] ![TypeScript][] ![React][] ![Tailwind CSS] </p>   |
 
 [C]: https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white
 [Bash]: https://img.shields.io/badge/Bash%20-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white
@@ -96,6 +96,7 @@
 [Tailwind CSS]: https://img.shields.io/badge/Tailwind%20CSS%20-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
 [Docker]: https://img.shields.io/badge/Docker%20-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white
 [Kubernetes]: https://img.shields.io/badge/Kubernetes%20-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white
+[C++]: https://img.shields.io/badge/-C++-blue?logo=cplusplus
 
 <div align="center">
 
