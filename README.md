@@ -72,7 +72,7 @@
 | **Proficient Languages** | <p align="center"> ![C][] ![Bash][] ![Makefile][] </p>                                                    |
 | **Currently Learning**   | <p align="center"> ![HTML5][] ![C++][] ![Python][] </p> |
 | **Tools and Software**   | <p align="center"> ![Git][] ![GitHub][] ![Visual Studio Code][] ![Linux][] ![Slack][]             </p>    |
-| **Future Goals**         | <p align="center"> ![SQL][] ![Docker][] ![Java][] ![JavaScript][] ![TypeScript][] ![React][] ![Tailwind CSS] </p>   |
+| **Future Goals**         | <p align="center"> ![SQL][] ![Java][]  </p>   |
 
 [C]: https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white
 [Bash]: https://img.shields.io/badge/Bash%20-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white
